@@ -1,0 +1,17 @@
+.ministeries {
+  border-bottom: 1px solid rgba(0, 0, 0, 0.3);
+  box-shadow: 1px 3px 4px rgba(0, 0, 0, 0.8);
+}
+
+.ministeries-content {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+
+.school {
+  display: flex;
+  justify-content: space-between;
+  width: 100%;
+  height: 150px;
+}
